@@ -5,5 +5,5 @@
 
 ### Running Tests
 
-To run tests from the example project root directory, run one of the following commands:
+To run tests from the __tests project directory__, run one of the following commands:
 
