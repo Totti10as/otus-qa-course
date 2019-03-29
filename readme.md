@@ -15,3 +15,6 @@ To run tests from the __tests project directory__, run one of the following comm
 - pytest test_mod.py::test_func # Запуск отдельного теста в модуле test_mod.py
 - pytest test_mod.py::TestClass::test_method # Запуск теста из класса
 - pytest -m slow # Запуск промаркированных тестов
+
+
+__Use the following link to edit markup the README file__ [https://help.github.com/en/articles/basic-writing-and-formatting-syntax#paragraphs-and-line-breaks]
