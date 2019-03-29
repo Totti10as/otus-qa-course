@@ -7,6 +7,8 @@
 
 To run tests from the __tests project directory__, run one of the following commands:
 
+
+
 - python -m pytest test_um_pytest.py # Можно запустить так
 - py.test test_um_pytest.py # Или так
 - python -m pytest -v test_um_pytest.py # Или так с расширенным выводом
