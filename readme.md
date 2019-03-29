@@ -18,4 +18,4 @@ To run tests from the __tests project directory__, run one of the following comm
 
 
 __Use the following link to edit markup the README file__ : 
-[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#paragraphs-and-line-breaks)
+[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
