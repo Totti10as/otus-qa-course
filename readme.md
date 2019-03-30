@@ -16,7 +16,7 @@ To run tests from the __tests project directory__, run one of the following comm
 - pytest test_mod.py::TestClass::test_method # Запуск теста из класса
 - pytest -m slow # Запуск промаркированных тестов
 
-### Runing tests with additional options:
+To run tests with additional options:
 
 
 - pytest --version   # shows where pytest was imported from
