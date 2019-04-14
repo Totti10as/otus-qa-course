@@ -1,4 +1,7 @@
-pytest test_section3.py -v -s  # Let’s run the tests in verbose mode and with looking at the print-output
+pytest test_section3.py -v -s                       # Let’s run the tests in verbose mode and with looking at the print-output
+
+python -m pytest -m negative -s -v  test_api_1.py   # Run specific marked tests
+
 
 
 py.test test_mod.py   # run tests in module
