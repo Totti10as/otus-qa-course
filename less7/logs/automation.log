@@ -1,0 +1,40 @@
+05/13/2019 05:26:08 PM - driver - INFO: Running browser setup selection
+05/13/2019 05:26:08 PM - WebDriverFactory - INFO: Running browser setup selection
+05/13/2019 05:26:10 PM - WebDriverFactory - INFO: Running tests in Chrome
+05/13/2019 05:26:12 PM - LoginPage - INFO: Element Found with locator: input-usernameand locatorType: id
+05/13/2019 05:26:13 PM - LoginPage - INFO: Send data on element with locator: input-username locatorType: id
+05/13/2019 05:26:13 PM - LoginPage - INFO: Element Found with locator: input-passwordand locatorType: id
+05/13/2019 05:26:13 PM - LoginPage - INFO: Send data on element with locator: input-password locatorType: id
+05/13/2019 05:26:13 PM - LoginPage - INFO: Element Found with locator: //button[@type='submit']and locatorType: xpath
+05/13/2019 05:26:13 PM - LoginPage - INFO: Clicked on element with locator: //button[@type='submit'] locatorType: Xpath
+05/13/2019 05:26:13 PM - LoginPage - INFO: Element Found with locator: closeand locatorType: classname
+05/13/2019 05:26:13 PM - LoginPage - INFO: Clicked on element with locator: close locatorType: classname
+05/13/2019 05:26:13 PM - LoginPage - INFO: Element Found with locator: //div[@class='modal-header']//h4[contains(text(),' Important Security Notification!')]and locatorType: xpath
+05/13/2019 05:26:13 PM - LoginPage - INFO: isElement Present :: Element Found with locator: //div[@class='modal-header']//h4[contains(text(),' Important Security Notification!')]and locatorType: xpath
+05/13/2019 05:26:13 PM - LoginPage - INFO: Page title found
+05/13/2019 05:26:13 PM - Util - INFO: Actual Text From Application Web UI --> :: Dashboard
+05/13/2019 05:26:13 PM - Util - INFO: Expected Text From Application Web UI --> :: Dashboard
+05/13/2019 05:26:13 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/13/2019 05:26:15 PM - driver - INFO: 
+Close browser window and quit the Driver
+05/13/2019 05:26:15 PM - driver - INFO: ['C:\\Users\\Totti10\\PycharmProjects\\otus-qa-course', 'C:\\Users\\Totti10\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\pytest.exe', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\python37.zip', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\DLLs', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\lib', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32', 'C:\\Users\\Totti10\\AppData\\Roaming\\Python\\Python37\\site-packages', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages']
+05/13/2019 05:27:17 PM - driver - INFO: Running browser setup selection
+05/13/2019 05:27:17 PM - WebDriverFactory - INFO: Running browser setup selection
+05/13/2019 05:27:20 PM - WebDriverFactory - INFO: Running tests in Chrome
+05/13/2019 05:27:23 PM - LoginPage - INFO: Element Found with locator: input-usernameand locatorType: id
+05/13/2019 05:27:23 PM - LoginPage - INFO: Send data on element with locator: input-username locatorType: id
+05/13/2019 05:27:23 PM - LoginPage - INFO: Element Found with locator: input-passwordand locatorType: id
+05/13/2019 05:27:23 PM - LoginPage - INFO: Send data on element with locator: input-password locatorType: id
+05/13/2019 05:27:23 PM - LoginPage - INFO: Element Found with locator: //button[@type='submit']and locatorType: xpath
+05/13/2019 05:27:24 PM - LoginPage - INFO: Clicked on element with locator: //button[@type='submit'] locatorType: Xpath
+05/13/2019 05:27:24 PM - LoginPage - INFO: Element Found with locator: closeand locatorType: classname
+05/13/2019 05:27:24 PM - LoginPage - INFO: Clicked on element with locator: close locatorType: classname
+05/13/2019 05:27:24 PM - LoginPage - INFO: Element Found with locator: //div[@class='modal-header']//h4[contains(text(),' Important Security Notification!')]and locatorType: xpath
+05/13/2019 05:27:24 PM - LoginPage - INFO: isElement Present :: Element Found with locator: //div[@class='modal-header']//h4[contains(text(),' Important Security Notification!')]and locatorType: xpath
+05/13/2019 05:27:24 PM - LoginPage - INFO: Page title found
+05/13/2019 05:27:24 PM - Util - INFO: Actual Text From Application Web UI --> :: Dashboard
+05/13/2019 05:27:24 PM - Util - INFO: Expected Text From Application Web UI --> :: Dashboard
+05/13/2019 05:27:24 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+05/13/2019 05:27:26 PM - driver - INFO: 
+Close browser window and quit the Driver
+05/13/2019 05:27:26 PM - driver - INFO: ['C:\\Users\\Totti10\\PycharmProjects\\otus-qa-course', 'C:\\Users\\Totti10\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\pytest.exe', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\python37.zip', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\DLLs', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\lib', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32', 'C:\\Users\\Totti10\\AppData\\Roaming\\Python\\Python37\\site-packages', 'c:\\users\\totti10\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages']
