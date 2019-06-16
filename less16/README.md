@@ -1,4 +1,8 @@
-python-log-parse-example
-Simple log parsing example in Python
+# Python-log-parse-example
 
-To run this example, clone or download this repository, and in terminal run: python parse_logs.py
+
+## Simple log parsing example in Python
+
+
+To run this example, clone or download this repository, and in terminal run: python log_parser.py by providing the path to the file 
+as well as file itself
