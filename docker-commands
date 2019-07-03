@@ -24,6 +24,9 @@ echo "New Version v2" >> /var/www/html/index.html	Изменить файл в �
 exit	Выйти из контейнера
 docker commit 5267e21d140  newimage_v2:latest	Создать Image с именем newimage_v2:latest из контейнера с ID 5267e21d140
 
+
+ sudo usermod -aG docker $USER  | Run docker without sudo
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 # Introduction to Docker by Denis Astahov
