@@ -26,6 +26,8 @@ docker commit 5267e21d140  newimage_v2:latest	Создать Image с имене
 
 
  sudo usermod -aG docker $USER  | Run docker without sudo
+ docker cp /root/mydocker b65e921e2127:/root | Copy folder from host to docker run container
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
