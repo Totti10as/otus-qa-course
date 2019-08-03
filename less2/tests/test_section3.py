@@ -1,5 +1,6 @@
 ''' Run demo test scenarions '''
 
+
 import pytest
 from less2.data.numbers import Math
 from less2.data.strings import uplowcase
@@ -19,6 +20,7 @@ def test_sumnums(onetimesetup, setup):
 
 # ---------------------------------------------------------------------------
 
+
 @pytest.mark.run(order=2)
 def test_subnums(onetimesetup, setup):
     """
@@ -29,6 +31,7 @@ def test_subnums(onetimesetup, setup):
     assert result.sub_nums() == 10
 
 # ---------------------------------------------------------------------------
+
 
 # @pytest.mark.skip(reason="no way of currently testing this")
 @pytest.mark.run(order=3)
@@ -101,6 +104,7 @@ def test_dictionary():
       Verify car model value in dictionary
     """
     print('Verifying function of Dictionary')
-    cars = {'bmw': {'model': 'x3', 'year': 2019}, 'mazda': {'model': 'cx5', 'year': 2019}}
+    cars = {'bmw': {'model': 'x3', 'year': 2019}, 
+            'mazda': {'model': 'cx5', 'year': 2019}}
     bmw_model = cars['bmw']['model']
     assert bmw_model == 'x3'
