@@ -9,6 +9,7 @@ from less2.data.carslist import cars_list
 
 # ---------------------------------------------------------------------------
 
+
 @pytest.mark.run(order=1)
 def test_sumnums(onetimesetup, setup):
     """
@@ -104,7 +105,7 @@ def test_dictionary():
       Verify car model value in dictionary
     """
     print('Verifying function of Dictionary')
-    cars = {'bmw': {'model': 'x3', 'year': 2019}, 
+    cars = {'bmw': {'model': 'x3', 'year': 2019},\
             'mazda': {'model': 'cx5', 'year': 2019}}
     bmw_model = cars['bmw']['model']
     assert bmw_model == 'x3'
